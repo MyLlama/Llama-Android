@@ -1,7 +1,8 @@
 {
-  "name": "in-app-browser",
+  "name": "Llama",
   "integrations": {
     "capacitor": {}
   },
-  "type": "angular"
+  "type": "angular",
+  "id": "a5c23fef"
 }
