@@ -16,7 +16,8 @@ export class HomePage {
       location: 'no',
       hidden: 'no',
       hardwareback: 'yes',
-      toolbar: 'no'
+      toolbar: 'no',
+      zoom: 'no'
     });
 
     // browser.executeScript(...);
